@@ -1,1 +1,3 @@
-# entity_knowledge_propagation
+# Entity Knowledge Propagation
+
+### The code and data will be available soon.... 
