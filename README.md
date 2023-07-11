@@ -1,3 +1,8 @@
 # Entity Knowledge Propagation
 
-### The code and data will be available soon.... 
+## Data
+
+- Entity Inferences: `data/entity_inferences`
+- ECBD: `data/ecbd`
+
+### The experiment code will be available soon.... 
