@@ -1,0 +1,15 @@
+name: t5-large
+class_name: AutoModelForSeq2SeqLM
+tokenizer_class: AutoTokenizer
+tokenizer_name: t5-large
+inner_params:
+- encoder.block.22.layer.1.DenseReluDense.wi.weight
+- encoder.block.22.layer.1.DenseReluDense.wo.weight
+- encoder.block.23.layer.1.DenseReluDense.wi.weight
+- encoder.block.23.layer.1.DenseReluDense.wo.weight
+- decoder.block.22.layer.2.DenseReluDense.wi.weight
+- decoder.block.22.layer.2.DenseReluDense.wo.weight
+- decoder.block.23.layer.2.DenseReluDense.wi.weight
+- decoder.block.23.layer.2.DenseReluDense.wo.weight
+
+pt: null
